@@ -2,9 +2,9 @@
 
 Includes
 
-	•	Android code written in Java
-	•	Machine learning code written in Python
-
+	•	Back End : Machine learning (Python)
+	•	Front End : Android Application (Java)
+		
 About project 
 
 An android application that uses GPS to track personal trajectories and sends an alert whenever an anomaly is detected in the trajectory. Anomaly detection is one important aspect that has been researched within diverse research areas and application domains. We explore the same in our project and also analyze the precision and applications. We also have looked into computational complexity while selecting our algorithm keeping in mind the time and space constraints of anomaly detection on live GPS data.
@@ -12,7 +12,7 @@ An android application that uses GPS to track personal trajectories and sends an
 
 Getting Started
 
-.apk file can be directly installed in any GPPS enabled android smartphone.
+.apk file can be directly installed in any GPS enabled android smartphone.
 
 Deployment
 
